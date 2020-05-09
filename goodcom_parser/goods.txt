@@ -1,0 +1,25 @@
+Модель,Цена,Ссылка
+Телефон Xiaomi Redmi Note 7 64Gb Ram 4Gb Black,11 190  - 12 490 руб.,https://goodcom.ru/catalog/good/telefon-xiaomi-redmi-note-7-64gb-ram-4gb-black-15621199221
+Телефон Xiaomi Redmi Note 7 128Gb Ram 4Gb Space Black,12 990 руб.,https://goodcom.ru/catalog/good/telefon-xiaomi-redmi-note-7-128gb-ram-4gb-space-black
+Телефон Xiaomi Redmi Note 8 Pro 64Gb Ram 6Gb White,16 990 руб.,https://goodcom.ru/catalog/good/telefon-xiaomi-redmi-note-8-pro-64gb-ram-6gb-white
+Телефон Xiaomi Redmi Note 8 Pro 64Gb Ram 6Gb Grey,15 290  - 16 990 руб.,https://goodcom.ru/catalog/good/telefon-xiaomi-redmi-note-8-pro-64gb-ram-6gb-grey
+Телефон Xiaomi Redmi Note 8 Pro 64Gb Ram 6Gb Green,16 990 руб.,https://goodcom.ru/catalog/good/telefon-xiaomi-redmi-note-8-pro-64gb-ram-6gb-green
+Телефон Xiaomi Redmi Note 8 Pro 128Gb Ram 6Gb White,18 990 руб.,https://goodcom.ru/catalog/good/telefon-xiaomi-redmi-note-8-pro-128gb-ram-6gb-white
+Телефон Xiaomi Redmi Note 8 Pro 128Gb Ram 6Gb Grey,18 990 руб.,https://goodcom.ru/catalog/good/telefon-xiaomi-redmi-note-8-pro-128gb-ram-6gb-grey
+Телефон Xiaomi Redmi Note 8 Pro 128Gb Ram 6Gb Green,18 990 руб.,https://goodcom.ru/catalog/good/telefon-xiaomi-redmi-note-8-pro-128gb-ram-6gb-green-15836298621
+Телефон Samsung A505F/DS Galaxy A50 64Gb Black,13 490  - 17 990 руб.,https://goodcom.ru/catalog/good/telefon-samsung-a505fds-galaxy-a50-64gb-black
+Телефон Samsung A505F/DS Galaxy A50 128Gb Black,14 990  - 19 990 руб.,https://goodcom.ru/catalog/good/telefon-samsung-a505fds-galaxy-a50-128gb-black
+Телефон Honor 10i 128Gb Ram 4Gb Black,11 690  - 12 990 руб.,https://goodcom.ru/catalog/good/telefon-honor-10i-128gb-ram-4gb-black
+Смартфон Apple iPhone 7 32Gb Black,17 190  - 19 990 руб.,https://goodcom.ru/catalog/good/telefon-apple-iphone-7-32gb-black-15269023211
+Смартфон Apple iPhone 7 128Gb Black,21 590  - 25 090 руб.,https://goodcom.ru/catalog/good/telefon-apple-iphone-7-128gb-black-15269023211
+Смартфон Apple iPhone 7 256Gb Black,26 690 pyб.,https://goodcom.ru/catalog/good/telefon-apple-iphone-7-256gb-black
+Смартфон Apple iPhone 7 Plus 32Gb Black,23 990  - 29 990 руб.,https://goodcom.ru/catalog/good/telefon-apple-iphone-7-plus-32gb-black
+Смартфон Apple iPhone 7 Plus 128Gb Black,27 590  - 32 090 руб.,https://goodcom.ru/catalog/good/telefon-apple-iphone-7-plus-128gb-black-15852244212
+Смартфон Apple iPhone 7 Plus 256Gb Black,28 390 pyб.,https://goodcom.ru/catalog/good/telefon-apple-iphone-7-plus-256gb-black-15269023211
+Телефон Huawei P10 Lite 3/32Gb Black,6 990  - 8 490 руб.,https://goodcom.ru/catalog/good/telefon-huawei-p10-lite-32gb-ram-3gb-black
+Смартфон Apple iPhone XR 64Gb Black,43 690 pyб.,https://goodcom.ru/catalog/good/telefon-apple-iphone-xr-64gb-black
+Смартфон Apple iPhone XR 128Gb Black,48 390 pyб.,https://goodcom.ru/catalog/good/telefon-apple-iphone-xr-128gb-black-15578367011
+Смартфон Apple iPhone X 64Gb Silver,36 790  - 42 790 руб.,https://goodcom.ru/catalog/good/telefon-apple-iphone-x-64gb-silver
+Смартфон Apple iPhone X 256Gb Silver,39 190  - 45 590 руб.,https://goodcom.ru/catalog/good/telefon-apple-iphone-x-256gb-silver-15269023211
+Смартфон Apple iPhone XS 64Gb Silver,39 990  - 46 490 руб.,https://goodcom.ru/catalog/good/telefon-apple-iphone-xs-64gb-silver-15508020021
+Смартфон Apple iPhone XS Max 256Gb Silver,51 990  - 60 390 руб.,https://goodcom.ru/catalog/good/telefon-apple-iphone-xs-max-256gb-silver
